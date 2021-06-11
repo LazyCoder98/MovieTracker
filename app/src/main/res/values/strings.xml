@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movie Tracker</string>
+    <string name="register_movie">Register Movie</string>
+    <string name="display_movies">Display Movies</string>
+    <string name="favourites">Favourites</string>
+    <string name="edit_movies">Edit Movies</string>
+    <string name="search">Search</string>
+    <string name="ratings">Ratings</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="save">Save</string>
+    <string name="find_movie_in_imdb">Find movie in IMDB</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="review">Review</string>
+    <string name="update">Update</string>
+    <string name="cast">Cast</string>
+    <string name="rating">Rating</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="director">Director</string>
+    <string name="lookup">Lookup</string>
+
+
+</resources>
